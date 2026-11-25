@@ -9,4 +9,5 @@ momentum, beta, and Idiosyncratic volatility.
 
 
 team_momentum.ipynb is all of the code used in the analysis
+
 Composite.pdf is the final presentation given to industry professionals from Brigham Young University, Ensign Peak Advisors, and Goldman Sachs
