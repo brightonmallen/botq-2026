@@ -6,3 +6,7 @@ improves on the benchmark of the Russell 3000.
 
 Our strategy was to invest in stocks that graded above a certain level using a composite score taking into account
 momentum, beta, and Idiosyncratic volatility. 
+
+
+team_momentum.ipynb is all of the code used in the analysis
+Composite.pdf is the final presentation given to industry professionals from Brigham Young University, Ensign Peak Advisors, and Goldman Sachs
